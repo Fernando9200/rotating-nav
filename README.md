@@ -1,3 +1,3 @@
 # rotating-nav
 
-This is a front-end project of a rotating nav for the menu of a blog.
+This is a project of a navigation menu for a blog or website that rotates the entire web application.
